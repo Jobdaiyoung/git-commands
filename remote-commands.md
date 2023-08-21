@@ -23,7 +23,7 @@
 
 4. The command to push `dev-foo` to `origin` as a **new remote branch** on `origin` is:
    ```
-   git branch --set-upstream origin dev-foo
+   git branch --set-upstream-to origin dev-foo
    ```
 
 
